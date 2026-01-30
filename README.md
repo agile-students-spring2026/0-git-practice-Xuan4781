@@ -14,3 +14,7 @@ The document emphasizes what is essential in open-source communities and how
 to control your emotions when someone provokes you. When you think about it,
 anything can trigger someone on the internet, including interpreting accidental
 CAPS as anger.
+
+## Comment on the article
+
+I had not heard of iNaturalist before and it sounds like a very interesting site. I liked how this code of conduct specifies to assume that people mean well and allows space for people to make mistakes if they mean well. I think this is an important mindset that is sometimes overlooked in collaborative environments; majority of people mean well but mistakes can be made. - Bella D'Aquino
