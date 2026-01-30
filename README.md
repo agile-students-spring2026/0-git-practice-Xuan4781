@@ -1,6 +1,6 @@
-# Software Engineering Code of Conduct
+# Code of Conduct in Software Development
 
-[iNaturalist Community Guidelines](https://www.inaturalist.org/pages/community+guidelines)
+Link: [iNaturalist Community Guidelines](https://www.inaturalist.org/pages/community+guidelines)
 
 ## Why I Find This Interesting
 
