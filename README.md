@@ -18,3 +18,5 @@ CAPS as anger.
 ## Comment on the article
 
 I had not heard of iNaturalist before and it sounds like a very interesting site. I liked how this code of conduct specifies to assume that people mean well and allows space for people to make mistakes if they mean well. I think this is an important mindset that is sometimes overlooked in collaborative environments; majority of people mean well but mistakes can be made. - Bella D'Aquino
+
+Although this article is originally about biological communities, I think it is also very helpful for software development. In software development, we often need to work with other people, and I believe we also need some guidelines to help us communicate politely and effectively. One example mentioned in the article is that sometimes it is better not to use too many technical terms, but instead use simpler and more understandable language. After all, not everyone has the same background knowledge. - Shutong Zhang
